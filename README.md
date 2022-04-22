@@ -1,2 +1,2 @@
-# Bioinformatics101
-Bioinformatics 101: A Gentle Introduction to Bioinformatics
+# Biostat
+Website for Fundamentals of Biostatistics at Department of Microbiology
